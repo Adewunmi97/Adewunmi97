@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Adewunmi97/Adewunmi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Github: [@Adewunmi97](https://github.com/Adewunmi97), Twitter: [@_ShonibareC](https://twitter.com/_ShonibareC)], LinkedIn: [Adewunmi Shonibare(www.linkedin.com/in/adewunmi-shonibare-a2a7b0200)]
 - 😄 Pronouns: ["she", "her"],
 - ⚡ Fun fact: ["As a student in microverse, I have built my collaboration skills by working with others from different part of the world, solved coding challenges and have a strong professional skill"].
--->
