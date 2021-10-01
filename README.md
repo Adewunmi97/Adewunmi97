@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**Adewunmi97/Adewunmi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### I'm Shonibare Adewunmi a software developer...
 
 - 🔭 I’m currently working on vue,
 - 🌱 I’m currently learning at Microverse,a programming school, 
