@@ -3,7 +3,7 @@
 ### I'm Shonibare Adewunmi a software developer...
 
 - 🔭 I’m currently working on vue,
-- 🌱 I’m currently learning at Microverse,a programming school, 
+- 🌱 I’m currently learning at Microverse, a programming school, 
 - 👯 I’m looking to collaborate on Front-end || back-end projects,
 - 🤔 I’m looking for help with more opportunities to offer solutions and build more on my problem solving skills,
 - 💬 Ask me about web/software development,
