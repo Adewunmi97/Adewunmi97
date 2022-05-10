@@ -11,3 +11,4 @@
 - 😄 Pronouns: ["she", "her"],
 - ⚡ Fun fact: ["As a student in microverse, I have built my collaboration skills by working with others from different part of the world, solved coding challenges and have a strong professional skill"].
 - Email: ["shonibareadewunmicomfort@gmail.com"].
+- CV: ["https://docs.google.com/document/d/1ovJOsMjIvNpimYIfdBjvhJV3UWDQFbSqFRvEusb0Yzo/edit?usp=sharing"]
